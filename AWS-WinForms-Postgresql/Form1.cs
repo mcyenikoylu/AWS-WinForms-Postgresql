@@ -16,5 +16,10 @@ namespace AWS_WinForms_Postgresql
         {
             InitializeComponent();
         }
+
+        private void simpleButton1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
